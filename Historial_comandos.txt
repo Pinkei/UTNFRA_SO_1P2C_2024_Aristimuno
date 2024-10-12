@@ -1,0 +1,367 @@
+ls
+ls -l
+touch archivo.txt
+ls -l
+sudo mv archivo.txt /foo
+ls -l foo/
+ls -l
+ls -la
+cd foo
+ls -l
+cd ..
+ls/foo
+ls /foo
+touch archivo.txt
+ls -l
+sudo mv archivo.txt foo/
+ls -l foo/
+exit
+pwd
+cd ..
+cd repogit/
+ls
+cd ..
+ls
+cd HOME
+cd $HOME
+pwd
+ls
+ls -l
+cd repogit
+mkdir repogit
+cd repogit/
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+git clone https://github.com/Pinkei/UTNFRA_SO_1P2C_2024_Aristimuno.git
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history-a
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh ~/.bashrc && history -a
+source  ~/.bashrc  && history -a
+pwd
+ls -la
+ls -l
+tree UTNFRA_SO_1P2C_2024_Aristimuno/
+apt  install tree
+sudo apt  install tree
+tree UTNFRA_SO_1P2C_2024_Aristimuno/
+snap info tree
+apt  install tree
+sudo apt  install tree
+apt  install tree  # version 2.0.2-1
+sudo apt  install tree  # version 2.0.2-1
+snap install tre
+sudo snap install tre
+sudo snap install tree
+tree UTNFRA_SO_1P2C_2024_Aristimuno/
+./Punto_A.sh
+cd UTNFRA_SO_1P2C_2024_Aristimuno/RTA_SCRIPT_Examen_20241008
+vim Punto_A.sh
+cat Punto_A.sh 
+ls -l
+chmod 755 Punto_A.sh
+./Punto_A.sh
+pwd
+ls -l
+ls -R /Examenes-UTN/
+tree /Examenes-UTN/
+cd /Examenes-UTN/alumno_1/
+ls
+tree /Examenes-UTN/
+tree 
+cd ..
+pwd
+Examenes-UTN/alumno_1
+Examenes-UTN/alumno_1´/
+Examenes-UTN/alumno_1/
+cd repogit/
+ls -l
+ls -la
+cd ..
+cd..
+cd ..
+pwd
+ls -l
+cd /home/vagrant/repogit/
+ls
+cd UTNFRA_SO_1P2C_2024_Aristimuno/
+ls
+cd RTA_SCRIPT_Examen_20241008/
+PWD
+pwd
+ls -l
+cat Punto_A.sh 
+tree Punto_A.sh 
+sudo tree Punto_A.sh 
+git add .
+git commit -m "Subiendo punto A"
+git config --global user.email "keilasol930@gmail.com"
+git config --global user.name "pinkei"
+git commit -m "Subiendo punto A"
+git push
+git remote set-url origin https://@github.com/Pinkei/UTNFRA_SO_1P2C_2024_Aristimuno.git@github.com/Pinkei/UTNFRA_SO_1P2C_2024_Aristimuno.git
+git remote set-url origin https://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@github.com/Pinkei/UTNFRA_SO_1P2C_2024_Aristimuno.git
+git push
+git remote set-url origin https://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@github.com/Pinkei/UTNFRA_SO_1P2C_2024_Aristimuno.git
+git push
+exit
+lsblk
+vagrant halt
+exit
+cd /vagrant/UTNFRA_SO_1P2C_2024_Aristimuno
+pwd
+ls -l
+cd repogit
+ls -l
+cd UTNFRA_SO_1P2C_2024_Aristimuno/
+ls -l
+cd RTA_SCRIPT_Examen_20241008/
+LS -L
+ls -l
+lsblk
+exit
+ls -l
+pwd
+cd repogit
+pwd
+ls -l
+cd UTNFRA_SO_1P2C_2024_Aristimuno/
+LS -L
+ls -l
+RTA_SCRIPT_Examen_20241008/
+cd RTA_SCRIPT_Examen_20241008/
+ls -l
+vim Punto_B.sh 
+cd repogit
+cd UTNFRA_SO_1P2C_2024_Aristimuno/
+cd RTA_SCRIPT_Examen_20241008/
+ls -l
+vim Punto_B.sh 
+sudo fdisk -l
+vim Punto_B.sh 
+ls -l
+cat Punto_B.sh
+cat Punto_A.sh
+vim Punto_B.sh 
+sudo fdisk -l
+git add .
+git commit -m " punto b"
+git push
+whoami
+id
+ls -l
+vim Punto_C.sh
+git add .
+git commit -m "punto c"
+git push
+cd..
+cd ..
+ls -l
+RTA_ARCHIVOS_Examen_20241008/
+cd RTA_ARCHIVOS_Examen_20241008/
+ls -l
+whoami > prueba_puntoD.txt
+ls -l
+cd ..
+cd..
+cd ..
+pwd
+mkdir ~/Estructura_Asimetrica
+mkdir ~/Estructura_Asimetrica/correo ~/Estructura_Asimetrica/clientes
+for i in {1..100}; do mkdir ~/Estructura_Asimetrica/correo/cartas_$i ~/Estructura_Asimetrica/clientes/cartas_$i; done
+for i in {1..10}; do mkdir ~/Estructura_Asimetrica/correo/carteros_$i; done
+tree ~/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+cd repogit
+ls -l
+cd UTNFRA_SO_1P2C_2024_Aristimuno/
+ls -l
+cd RTA_SCRIPT_Examen_20241008/
+ls -l
+vim Punto_D.sh
+cd ..
+cd RTA_ARCHIVOS_Examen_20241008/
+ls -l
+rm prueba_puntoD.txt
+ls -l
+git add .
+git commit -m "punto D"
+cd ..
+cd RTA_SCRIPT_Examen_20241008/
+git add .
+git commit -m "Punto D"
+git push
+vim Punto_C.sh
+vim Punto_D.sh
+chmod 764 Punto_B.sh
+chmod 764 Punto_C.sh
+ls -l
+git add .
+git commit -m "Puntos ejecutabes"
+git push
+cd ..
+pwd
+mkdir -p /Estructura_Asimetrica/{{correo/cartas{1..100},carteros{1..10}},clientes{cartas{1..100}}}
+sudo mkdir -p /Estructura_Asimetrica/{{correo/cartas{1..100},carteros{1..10}},clientes{cartas{1..100}}}
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+cd repogit
+ls -l
+cd UTNFRA_SO_1P2C_2024_Aristimuno/
+ls -l
+cd RTA_SCRIPT_Examen_20241008/
+ls -l
+vim Punto_D.sh
+chmod 764 Punto_D.sh
+ls -l
+git add .
+git commit -m "Punto D"
+git push
+cd ..
+cd RTA_ARCHIVOS_Examen_20241008/
+ls -l
+echo "Informacion de la ram" > Filtro_Basico.txt
+ls -l
+vim Filtro_Basico.txt 
+cat Filtro_Basico.txt 
+chmod 764 Filtro_basico.txt
+cd ..
+cat RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt 
+cd RTA_ARCHIVOS_Examen_20241008/Filtro_Basico.txt 
+cd RTA_ARCHIVOS_Examen_20241008
+ls -l
+cd Filtro_Basico.txt
+vim Filtro_Basico.tx
+cat Filtro_Basico.tx
+vim Filtro_Basico.txt
+cat Filtro_Basico.txt
+ls -l
+rm Filtro_Basico.tx
+ls -l
+vim Filtro_Basico.txt 
+cat /proc/meminfo | grep MemTotal
+vim Filtro_Basico.txt 
+dmidecode -t chassis
+cat dmidecode -t chassis
+sudo dmidecode -t chassis
+vim Filtro_Basico.txt 
+cd ..
+cd RTA_SCRIPT_Examen_20241008/
+ls -l
+vim Punto_E.sh
+chmod 764 Punto_E.sh
+ls -l
+git add .
+git commit -m "Punto E"
+git push
+cd ..
+cd RTA_ARCHIVOS_Examen_20241008/
+git add .
+git commit -m " Archivo creado punto E"
+git push
+vim Filtro_Basico.txt 
+git add .
+git commit -m " Archivo punto E"
+git push
+curl -s ifconfig.me
+git remote get-url origin 
+whoami
+man man
+cat "Mi IP publica es" curl -s ifconfig.me > Filtro_Avanzado.txt
+echo "Mi IP publica es" curl -s ifconfig.me > Filtro_Avanzado.txt
+ls -l
+cat Filtro_Avanzado.txt 
+rm Filtro_Avanzado.txt 
+ls -l
+"Mi IP publica es:" curl -s ifconfig.me > Filtro_Avanzado.txt
+ls -l
+cat Filtro_Avanzado.txt 
+cat 'Mi ip Publica es:' > Filtro_Avanzado.txt 
+echo "Mi ip Publica es:" >> Filtro_Avanzado.txt 
+cat Filtro_Avanzado.txt 
+curl -s ifconfig.me >> Filtro_Avanzado.txt 
+cat Filtro_Avanzado.txt 
+echo "Mi usuario es: ", whoami >> Filtro_Avanzado.txt 
+cat Filtro_Avanzado.txt 
+vagrant halt
+exit
+cd repogit
+cd UTNFRA_SO_1P2C_2024_Aristimuno/
+cd RTA_SCRIPT_Examen_20241008/
+ls -l
+vim Punto_F.sh 
+cd ..
+cd RTA_ARCHIVOS_Examen_20241008/
+ls -l
+rm Filtro_Avanzado.txt 
+echo "Mi IP publica es " >> Filtro_Avanzado.txt | curl -s ifconfig.me >> Filtro_Avanzado.txt
+cat Filtro_Avanzado.txt 
+echo "Mi usuario es: " >> Filtro_Avanzado.txt | whoami >> Filtro_Avanzado.txt
+echo "El Hash de mi usuario es: " >> Filtro_Avanzado.txt
+sudo grep vagrant /etc/shadow | awk -F ':' '{print $2}' >> Filtro_Avanzado.txt
+git remote get-url origin >> Filtro_Avanzado.tx
+cat Filtro_Avanzado.tx
+vim Filtro_Avanzado.tx
+echo "Mi IP publica es " >> Filtro_Avanzado.txt
+ls -l
+rm Filtro_Avanzado.tx
+cat Filtro_Avanzado.txt 
+vim Filtro_Avanzado.txt 
+echo "La URL de mi repositorio es: " >> Filtro_Avanzado.txt
+cat Filtro_Avanzado.txt 
+git remote get-url origin >> Filtro_Avanzado.tx
+cat Filtro_Avanzado.txt 
+git remote get-url origin >> Filtro_Avanzado.txt
+cat Filtro_Avanzado.txt 
+rm Filtro_Avanzado.tx
+ls -l
+vim Filtro_Avanzado.txt 
+git add .
+git commit -m "Punto F archivo"
+git push
+vim Filtro_Avanzado.txt 
+git add .
+git commit -m "Punto F archivo"
+git push
+vim Filtro_Avanzado.txt 
+cd ..
+cd RTA_SCRIPT_Examen_20241008/
+vim Punto_F.sh 
+chmod 755 Punto_F.sh 
+ls -l
+git add .
+git commit -m "Punto F"
+git push
+vim Punto_F.sh 
+cd ..
+cd RTA_ARCHIVOS_Examen_20241008/
+ls -l
+rm Filtro_Avanzado.txt 
+ls -l
+git add .
+git commit -m "Punto f"
+git push
+git rm --cached RTA_ARCHIVOS_Examen_20241008/Filtro_Avanzado.txt
+sudo git push
+git push
+cd ..
+ls -l
+cat << FIN >> README.md
+# UTNFRA_SO_1P2C_2024_Aristimuno
+
+Nombre: Keila
+Apellido: Aristimuño
+Legajo: 115375
+División: 113
+FIN
+
+ls -l
+git add .
+git commit -m "Informacion en el Readme"
+git push
+history -a $HOME/.bash_history
+git add .
+git commit -m "History"
+git push
+ls -l
+vim README.md
+git add .
+git commit -m "Readme"
+git push
+ls -la $HOME
+history -a $HOME/.bash_history
